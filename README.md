@@ -122,7 +122,7 @@ If you want to remove a file, which you do not want to commit:
 git restore .
 
 # For specific file
-git restore --stages <file name>
+git restore --staged <file name>
 ```
 
 #### Commit
