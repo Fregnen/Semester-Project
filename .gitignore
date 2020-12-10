@@ -47,6 +47,8 @@
 *.unityproj
 *.user
 *.userprefs
+*.wav
+*.wav.meta
 *.VC.db
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 /[Aa]ssets/Plugins/Editor/JetBrains*
